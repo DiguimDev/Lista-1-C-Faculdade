@@ -6,4 +6,3 @@ int main() {
     printf("O valor deu %d\n", xy);
     return 0;
 }
-
